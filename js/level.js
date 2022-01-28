@@ -10,9 +10,9 @@ class Level {
       'W                                      W',
       'W                 C                    W',
       'W         C       S                  C W',
-      'W       S W          W       S       S W',
+      'W       S W          W               S W',
       'W     C   W    W    CW   C             W',
-      'WWWWWWWWWWW    W    WWWWWWWWWW   WWWWWWW',
+      'WWWWWWWWWWWSSSSWSSSSWWWWWWWWWWSSSWWWWWWW',
     ];
     for (var i = 0; i < level.length; i++) {
       for (var j = 0; j < level[i].length; j++) {
